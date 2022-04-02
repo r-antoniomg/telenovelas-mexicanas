@@ -37,5 +37,5 @@ Image 01. Visual representation of relationships between telenovelas and their c
 Image 02. Relationship visual focus on title :
 ![Telenovelas mexicanas: network analysis by title](https://user-images.githubusercontent.com/102780927/161389994-a86f10f6-fc13-44d6-aa84-daa920ebf30d.png)
 
-Image 03. Relationship visual Focus on cast member :
+Image 03. Relationship visual focus on cast member :
 ![Telenovelas mexicanas: network analysis by cast member](https://user-images.githubusercontent.com/102780927/161389995-eed10e5f-6645-491a-8cc8-e96d6f118a65.png)
