@@ -30,4 +30,12 @@ Titles of Mexican telenovelas and cast members obtained from DBpedia.
 - 2022-04-02-telenovelas-nodes.csv : Cleaned-up data identifying unique values for titles of telenovelas and names of cast members
 - 2022-04-02-telenovelas-edges.csv : Cleaned-up data identifying the relationship between telenovelas and cast members
 - 2022-04-02-telenovelas.gephi : Gephi file with loaded data  
-## Image samples
+## Network analysis: image examples
+Image 01. Visual representation of relationships between telenovelas and their cast members :
+![Telenovelas mexicanas: network analysis detail](https://user-images.githubusercontent.com/102780927/161389993-27da594f-9257-45f8-9c48-55a49ff512f9.png)
+
+Image 02. Relationship visual focus on title :
+![Telenovelas mexicanas: network analysis by title](https://user-images.githubusercontent.com/102780927/161389994-a86f10f6-fc13-44d6-aa84-daa920ebf30d.png)
+
+Image 03. Relationship visual Focus on cast member :
+![Telenovelas mexicanas: network analysis by cast member](https://user-images.githubusercontent.com/102780927/161389995-eed10e5f-6645-491a-8cc8-e96d6f118a65.png)
