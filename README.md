@@ -1,5 +1,6 @@
 # Telenovelas mexicanas  
-This project was intended to explore tools for harvesting data and network analysis.  
+This project was intended to explore tools for obtaining data and doing network analysis.
+
 As with all projects in this GitHub account, the objective is not to have a fully-formed research question, valid sample, and methodology. My main objective in these projects is to learn about different tools used for digital scholarship.  
 ## Tools  
 ### SPARQL  
