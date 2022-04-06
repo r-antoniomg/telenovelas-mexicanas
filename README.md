@@ -1,7 +1,7 @@
-# Telenovelas mexicanas  
-This project was intended to explore tools for obtaining data and doing network analysis.
+# Telenovelas mexicanas \[Sample project\]  
+**NOTE**: For sample projects in this GitHub account, the objective is not to have a fully-formed research question, valid sample, and methodology. The main objective is to showcase my learning about different tools used for digital scholarship.  
 
-As with all projects in this GitHub account, the objective is not to have a fully-formed research question, valid sample, and methodology. My main objective in these projects is to learn about different tools used for digital scholarship.  
+This project was intended to explore tools for obtaining data and doing network analysis.
 ## Tools  
 ### SPARQL  
 A SPARQL query was used against DBpedia's [SNORQL query explorer](https://dbpedia.org/snorql/) to find the titles of Mexican telenovelas and names of cast members. Unique identifiers for each entity were also obtained to facilitate the network analysis.
